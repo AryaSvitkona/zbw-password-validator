@@ -1,3 +1,3 @@
 ﻿# ZBW-password-validator
 
-Ich bin ein Text eines Mitarbeiters.
+Ich bin nun ein richtiger Text.
