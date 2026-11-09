@@ -1,3 +1,3 @@
 ﻿# ZBW-password-validator
 
-Ich bin nun ein richtiger Text.
+Das vollständige Readme kommt zu einem späteren Zeitpunkt.
