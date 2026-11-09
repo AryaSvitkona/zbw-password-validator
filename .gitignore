@@ -1,3 +1,4 @@
 ﻿.idea
 PasswordValidator/obj
 PasswordValidator/bin
+.env
